@@ -10,3 +10,5 @@ export default {
   name: 'CustomLayout',
 }
 </script>
+
+<style></style>

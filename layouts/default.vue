@@ -29,13 +29,4 @@ h1 {
 h2 {
   @apply text-2xl;
 }
-
-.page-enter-active,
-.page-leave-active {
-  transition: opacity 0.5s;
-}
-.page-enter,
-.page-leave-active {
-  opacity: 0;
-}
 </style>
