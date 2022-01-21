@@ -1,5 +1,8 @@
 <template>
-  <h1>Index ;)</h1>
+  <div>
+    <h2>Index page - 1 attempt</h2>
+    <NuxtLink to="/custom">Custom</NuxtLink>
+  </div>
 </template>
 
 <script>
